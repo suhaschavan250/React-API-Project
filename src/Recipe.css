@@ -1,0 +1,30 @@
+.recipe{
+    border: 1px black solid;
+    width: 25vw;
+    margin: auto;
+    border-radius: 3vh;
+    margin-bottom: 3vh;
+    box-shadow: 10px 10px 5px  grey;
+}
+.image{
+    border-radius: 3vh;
+    border: 2px solid silver;
+}
+.title{
+    border: 1px solid tomato;
+    background-color: silver;
+    width: 80%;
+    margin: auto;
+    margin-top: 0.5vh;
+    border-radius: 3vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkolivegreen;;
+    border-bottom: 4px solid tomato;
+}
+
+.calories{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkolivegreen;
+    font-size: medium;
+    color: slateblue;
+}
